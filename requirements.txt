@@ -1,0 +1,28 @@
+# Web Frameworks
+flask
+streamlit
+
+# Authentication & Security
+flask-jwt-extended
+flask-bcrypt
+
+# Machine Learning
+catboost
+scikit-learn
+numpy
+pandas
+google-generativeai
+google-api-python-client
+
+# Server & Deployment
+gunicorn
+oauth2client
+gspread
+pydrive
+
+# Database (Only if using PostgreSQL)
+flask-sqlalchemy
+psycopg2-binary
+
+
+
