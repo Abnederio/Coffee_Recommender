@@ -1,5 +1,7 @@
 # ☕ AI Coffee Recommender
 
+(This program right now can only be used locally.)
+
 ### 🌟 A Smart Coffee Recommendation System Powered by AI & Google Sheets 🚀
 
 This Streamlit app recommends the perfect coffee based on your preferences like caffeine level, sweetness, and weather conditions. It uses **Google Sheets** as a database and **CatBoostClassifier** for AI-powered recommendations.
